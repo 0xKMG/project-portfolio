@@ -1,2 +1,2 @@
 # project-portfolio
-**this project is still in development**
+this project is still in development
